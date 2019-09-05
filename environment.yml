@@ -1,0 +1,11 @@
+name: BlochAnimation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - qutip
+  - scipy
+  - cython
+  
